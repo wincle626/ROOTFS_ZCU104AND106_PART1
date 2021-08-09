@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/fonts-adf-berenis
+/usr/share/doc/fonts-adf-berenis/changelog.Debian.gz
+/usr/share/doc/fonts-adf-berenis/copyright
+/usr/share/fonts
+/usr/share/fonts/truetype
+/usr/share/fonts/truetype/adf
+/usr/share/fonts/truetype/adf/BerenisADFPro-Bold.otf
+/usr/share/fonts/truetype/adf/BerenisADFPro-BoldItalic.otf
+/usr/share/fonts/truetype/adf/BerenisADFPro-Italic.otf
+/usr/share/fonts/truetype/adf/BerenisADFPro-Regular.otf
+/usr/share/fonts/truetype/adf/BerenisADFProMath-Regular.otf

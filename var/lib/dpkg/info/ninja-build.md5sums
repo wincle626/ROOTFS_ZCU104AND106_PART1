@@ -1,0 +1,10 @@
+d6246ed05131c1d266381b4ff9532498  usr/bin/ninja
+8f9e41c1a0b3e4f7e3bf135bedc9ff00  usr/share/bash-completion/completions/ninja
+a7e059372c939fb768ea46ccd6f30cda  usr/share/doc-base/ninja-build-manual
+53ac79119eb7a0ee8625312f9aef0fad  usr/share/doc/ninja-build/changelog.Debian.gz
+b6049563d6637c24dd380e1920ddc6d6  usr/share/doc/ninja-build/copyright
+f113af7dbce386a008d96bcd4915ca7f  usr/share/doc/ninja-build/manual.html
+0f3a7d9df058580985828ba9eeb0dd5d  usr/share/emacs/site-lisp/ninja-mode.el
+37e85fa0287e96440e331c6ea796e67f  usr/share/man/man1/ninja.1.gz
+60e83c0956d6e3a0df271580ebc4074f  usr/share/vim/addons/syntax/ninja.vim
+1fad99313077c1a4f2b37558256d7f28  usr/share/zsh/vendor-completions/_ninja

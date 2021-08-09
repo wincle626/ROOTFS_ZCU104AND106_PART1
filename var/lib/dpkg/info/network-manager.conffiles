@@ -1,0 +1,4 @@
+/etc/NetworkManager/NetworkManager.conf
+/etc/NetworkManager/conf.d/default-wifi-powersave-on.conf
+/etc/NetworkManager/dispatcher.d/01-ifupdown
+/etc/init.d/network-manager

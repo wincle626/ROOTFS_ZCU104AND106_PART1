@@ -1,0 +1,9 @@
+auto
+/usr/bin/readline-editor
+readline-editor.1.gz
+/usr/share/man/man1/readline-editor.1.gz
+
+/usr/bin/ledit
+40
+/usr/share/man/man1/ledit.1.gz
+

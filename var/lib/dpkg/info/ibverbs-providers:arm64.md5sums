@@ -1,0 +1,17 @@
+355a2de88c76cf513ea24bff1ff3300d  usr/lib/aarch64-linux-gnu/libefa.so.1.1.28.0
+734475ed22c75c057494dfb70ce65b4c  usr/lib/aarch64-linux-gnu/libibverbs/libbnxt_re-rdmav25.so
+fab27b4e48d973a12abef49aacf59cef  usr/lib/aarch64-linux-gnu/libibverbs/libcxgb4-rdmav25.so
+bea90e36b8474203f25208bdcd67175f  usr/lib/aarch64-linux-gnu/libibverbs/libhfi1verbs-rdmav25.so
+ab3d69112843e289e6eac6288b6ab765  usr/lib/aarch64-linux-gnu/libibverbs/libhns-rdmav25.so
+9e39e0beac001214438fa82c0ae4c748  usr/lib/aarch64-linux-gnu/libibverbs/libi40iw-rdmav25.so
+40fc5e60be043243285bbe27182d0c8d  usr/lib/aarch64-linux-gnu/libibverbs/libipathverbs-rdmav25.so
+923003aa1554c557267f5a2f7a9087c5  usr/lib/aarch64-linux-gnu/libibverbs/libmthca-rdmav25.so
+37a30aef5d06ebaf5dbf2107935165e8  usr/lib/aarch64-linux-gnu/libibverbs/libocrdma-rdmav25.so
+f2f2a44c491cb55e787dd45475c53e75  usr/lib/aarch64-linux-gnu/libibverbs/libqedr-rdmav25.so
+cab20e58b6ba4e43d5ccb175a084f66c  usr/lib/aarch64-linux-gnu/libibverbs/librxe-rdmav25.so
+f1f0a47c21af4fb0ccad075d85ffb1f3  usr/lib/aarch64-linux-gnu/libibverbs/libsiw-rdmav25.so
+51a66d75e370b8951f9b2449ee437cad  usr/lib/aarch64-linux-gnu/libibverbs/libvmw_pvrdma-rdmav25.so
+de8b9c0c373a0c80a98b63f97dca24f2  usr/lib/aarch64-linux-gnu/libmlx4.so.1.0.28.0
+e3e4ccc0d293ec444848a36b28e968f9  usr/lib/aarch64-linux-gnu/libmlx5.so.1.12.28.0
+a0a9988cf9530e41bd60e00955f368fb  usr/share/doc/ibverbs-providers/copyright
+79a34d4e5988f4dfcfd04b0d9d518a3b  usr/share/lintian/overrides/ibverbs-providers

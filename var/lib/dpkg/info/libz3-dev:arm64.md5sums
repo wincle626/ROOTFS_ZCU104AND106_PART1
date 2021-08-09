@@ -1,0 +1,15 @@
+8b20877738f5b26c5b6ebc4a56511a85  usr/include/z3++.h
+c618facb40af0bfdb077008b4f82ccd2  usr/include/z3.h
+30932d451b46e5290d37b0564003a938  usr/include/z3_algebraic.h
+5c9c2c1303f7ac13ddaebadd1237b4d3  usr/include/z3_api.h
+1a634515c07f6c6e8a4fb5b57cb8a742  usr/include/z3_ast_containers.h
+59e61d16533d1dad247f905bfb93c08e  usr/include/z3_fixedpoint.h
+1478eff326d9ac7684a739639b57678d  usr/include/z3_fpa.h
+d7f161bbbd9e2433abacde8da0650928  usr/include/z3_macros.h
+cc7e52a1ef47fd258a4559e9fccb7cd4  usr/include/z3_optimization.h
+7118959f4ee035ed75cbb72bed0af249  usr/include/z3_polynomial.h
+76f5ae1c248269c53c6451d96ae916ef  usr/include/z3_rcf.h
+3c3467326c6ad2541b66f71878835f1c  usr/include/z3_spacer.h
+6412f7d99b33b0680d5a45983c846077  usr/include/z3_v1.h
+fa81b3ef5fbb5880fd7e57653a03a20d  usr/include/z3_version.h
+f967e789d58be4415f0ec8b561624170  usr/share/doc/libz3-dev/copyright

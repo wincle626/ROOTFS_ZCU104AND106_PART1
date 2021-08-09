@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/aarch64-linux-gnu
+/usr/lib/aarch64-linux-gnu/libnorm.so.1.5.8
+/usr/share
+/usr/share/doc
+/usr/share/doc/libnorm1
+/usr/share/doc/libnorm1/changelog.Debian.gz
+/usr/share/doc/libnorm1/copyright
+/usr/lib/aarch64-linux-gnu/libnorm.so.1

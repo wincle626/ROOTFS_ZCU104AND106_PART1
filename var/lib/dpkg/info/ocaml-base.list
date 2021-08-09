@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/ocaml
+/usr/lib/ocaml/graphics.cma
+/usr/lib/ocaml/graphics.cmxs
+/usr/lib/ocaml/stublibs
+/usr/lib/ocaml/stublibs/dllgraphics.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/ocaml-base
+/usr/share/doc/ocaml-base/copyright
+/usr/share/doc/ocaml-base/changelog.Debian.gz

@@ -1,0 +1,15 @@
+078402de2e7ea34ee518ace54c695c12  usr/lib/aarch64-linux-gnu/gstreamer-1.0/libgstcoreelements.so
+d3b485aac609f8ff22dc29db64e03f38  usr/lib/aarch64-linux-gnu/gstreamer-1.0/libgstcoretracers.so
+a6e1ae5509a2607326e7ad6684024957  usr/lib/aarch64-linux-gnu/gstreamer1.0/gstreamer-1.0/gst-plugin-scanner
+b0ab4029a3754aa100d8108a7b97c716  usr/lib/aarch64-linux-gnu/gstreamer1.0/gstreamer-1.0/gst-ptp-helper
+ae41c08df0806f2b3cd3181a60bf2de4  usr/lib/aarch64-linux-gnu/libgstbase-1.0.so.0.1602.0
+13ecbc9e049963bcca545b708ab1c84a  usr/lib/aarch64-linux-gnu/libgstcheck-1.0.so.0.1602.0
+fcd863134b593ed18cc7f2f7bd61bd10  usr/lib/aarch64-linux-gnu/libgstcontroller-1.0.so.0.1602.0
+512f4636992f832b7ee4fc7354092170  usr/lib/aarch64-linux-gnu/libgstnet-1.0.so.0.1602.0
+b7c347620043a82c7cc5bfa9bd18e0d6  usr/lib/aarch64-linux-gnu/libgstreamer-1.0.so.0.1602.0
+18728550cf69534a157d3e39af9281ea  usr/share/doc/libgstreamer1.0-0/AUTHORS
+8acd94bfe3a109d61166938fd74e1c96  usr/share/doc/libgstreamer1.0-0/NEWS.gz
+5bafd23836a2eb87b9d8f5341a9114e3  usr/share/doc/libgstreamer1.0-0/README.Debian
+a9e9e36c74d8961635e82a41cce40085  usr/share/doc/libgstreamer1.0-0/README.gz
+cb77fcd84de1d2c42393c75d1a58e448  usr/share/doc/libgstreamer1.0-0/changelog.Debian.gz
+755edde22ad9130c5ea5caa718046f66  usr/share/doc/libgstreamer1.0-0/copyright

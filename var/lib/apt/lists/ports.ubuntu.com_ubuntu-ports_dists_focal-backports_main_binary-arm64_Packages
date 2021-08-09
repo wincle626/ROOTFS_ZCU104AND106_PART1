@@ -1,0 +1,191 @@
+Package: dmeventd
+Architecture: arm64
+Version: 2:1.02.175-2ubuntu4~ubuntu20.04.1
+Priority: optional
+Section: admin
+Source: lvm2 (2.03.11-2ubuntu4~ubuntu20.04.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian LVM Team <team+lvm@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 217
+Depends: libc6 (>= 2.28), libdevmapper-event1.02.1 (>= 2:1.02.110), libdevmapper1.02.1 (>= 2:1.02.110), liblvm2cmd2.03 (>= 2.03.11)
+Filename: pool/main/l/lvm2/dmeventd_1.02.175-2ubuntu4~ubuntu20.04.1_arm64.deb
+Size: 32364
+MD5sum: c93c98460b03d407ba9cb6875f0b4a2e
+SHA1: 42a94f9e9eb154d934a753d5872ea54ba75c6097
+SHA256: 79a84b130e82a7ac709fb1784457c7a8fac2b881c4b606dba7744de10f83dae8
+SHA512: 14c07836e9f3885678e09f78134aa96abd2dae3dc22ec41632da650fa3eec84af222e1098b45e29a7b6c3f6f4153c890751d7429f167456d93ee0a6d5eaf89fe
+Homepage: https://sourceware.org/lvm2/
+Description: Linux Kernel Device Mapper event daemon
+Task: server, cloud-image, ubuntu-live, kubuntu-live, xubuntu-live, lubuntu-live, ubuntustudio-dvd-live, ubuntukylin-live, ubuntu-mate-live, ubuntu-budgie-live
+Description-md5: d576f6de0573a9ee9210238f490eb185
+
+Package: dmsetup
+Architecture: arm64
+Version: 2:1.02.175-2ubuntu4~ubuntu20.04.1
+Multi-Arch: foreign
+Priority: important
+Section: admin
+Source: lvm2 (2.03.11-2ubuntu4~ubuntu20.04.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian LVM Team <team+lvm@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 280
+Depends: libc6 (>= 2.17), libdevmapper1.02.1 (>= 2:1.02.138)
+Filename: pool/main/l/lvm2/dmsetup_1.02.175-2ubuntu4~ubuntu20.04.1_arm64.deb
+Size: 68952
+MD5sum: 7d520a7a93acc5cb8ed497b2941e4ccf
+SHA1: 9714ded7339d177af9fdc93b5b8ee80f2815b710
+SHA256: e95e2b547775feeb676e9124bb664e03dd7182b6b3b2dbf657b540ec1f5f23d4
+SHA512: b53fcd170144f03796129dc4250a6bff503e2b8c09ad708911a141fff65f251be129d8440bdaf4ebe2c48a1230c68d529f8d0fc2ac129f49e03d2bf81413613b
+Homepage: https://sourceware.org/lvm2/
+Description: Linux Kernel Device Mapper userspace library
+Task: minimal
+Description-md5: 53b782cbc29445e9c389c933898e1153
+
+Package: libdevmapper-dev
+Architecture: arm64
+Version: 2:1.02.175-2ubuntu4~ubuntu20.04.1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: lvm2 (2.03.11-2ubuntu4~ubuntu20.04.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian LVM Team <team+lvm@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 186
+Depends: libdevmapper1.02.1 (= 2:1.02.175-2ubuntu4~ubuntu20.04.1), libdevmapper-event1.02.1 (= 2:1.02.175-2ubuntu4~ubuntu20.04.1), libudev-dev, libselinux1-dev
+Filename: pool/main/l/lvm2/libdevmapper-dev_1.02.175-2ubuntu4~ubuntu20.04.1_arm64.deb
+Size: 35788
+MD5sum: 6b743b03e53b32aa82d7455161cb80d9
+SHA1: 69820465b52aba682109aac6f52b4052d9d1fbcc
+SHA256: 3b28e6fa82bc42be502e79fbc410c5460c82ee787ecfb4379dda455d9281366a
+SHA512: 4d9c2ab66a77949b7be2a456e44906ae9e2acec6a14b880540094c7e3a00166287d30bc624affaa03500800f6ac2425181c635fb78cb88ab3ce80b53ec26470b
+Homepage: https://sourceware.org/lvm2/
+Description: Linux Kernel Device Mapper header files
+Description-md5: 5cd5521f2f57bf6df22387046029bce5
+
+Package: libdevmapper-event1.02.1
+Architecture: arm64
+Version: 2:1.02.175-2ubuntu4~ubuntu20.04.1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: lvm2 (2.03.11-2ubuntu4~ubuntu20.04.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian LVM Team <team+lvm@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 71
+Depends: libc6 (>= 2.17), libdevmapper1.02.1 (>= 2:1.02.97)
+Filename: pool/main/l/lvm2/libdevmapper-event1.02.1_1.02.175-2ubuntu4~ubuntu20.04.1_arm64.deb
+Size: 10968
+MD5sum: 552e8bb94192edc17bb86c3e86d562de
+SHA1: 338db3be10ad99cc25f694bf2c612378b6aaba45
+SHA256: 69556673efeb87d07a4e6902dae17d95af45a2e3b762ad44e91304db9cfe02c7
+SHA512: 97af6a94734cc964f4804f76c34bfc7aa1be557fdef56f7d7c301583f86c63cccbcb3088d44af56079b23c1d07ae167e945bf31fbf908cce63982bf86264a299
+Homepage: https://sourceware.org/lvm2/
+Description: Linux Kernel Device Mapper event support library
+Task: server, cloud-image, ubuntu-live, kubuntu-live, xubuntu-live, lubuntu-live, ubuntustudio-dvd-live, ubuntukylin-live, ubuntu-mate-live, ubuntu-budgie-live
+Description-md5: b169c2c5a98cc37e577d858eb70f12b6
+
+Package: libdevmapper1.02.1
+Architecture: arm64
+Version: 2:1.02.175-2ubuntu4~ubuntu20.04.1
+Multi-Arch: same
+Priority: important
+Section: libs
+Source: lvm2 (2.03.11-2ubuntu4~ubuntu20.04.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian LVM Team <team+lvm@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 500
+Depends: libc6 (>= 2.28), libselinux1 (>= 1.32), libudev1 (>= 183)
+Recommends: dmsetup (>= 2:1.02.175-2ubuntu4~ubuntu20.04.1~)
+Filename: pool/main/l/lvm2/libdevmapper1.02.1_1.02.175-2ubuntu4~ubuntu20.04.1_arm64.deb
+Size: 110720
+MD5sum: 9319f051616b6bc491108219847406fd
+SHA1: 4e5e96030548001035bca2b91a09e1450fb0c997
+SHA256: 36949a86b894bddc02ed76570378656b20b336bae016909d82d6c17056bde654
+SHA512: 46aa89c95b1de01365a0ffbc1527fc56c8451c8516a9330bbe35f049fb86d3bc6a5af6eebca07056cf535bccc31e9da23cc5260b922b2887aa074fbec46648e6
+Homepage: https://sourceware.org/lvm2/
+Description: Linux Kernel Device Mapper userspace library
+Task: minimal
+Description-md5: 20966f6bb804eef3609ec2e2db69378f
+
+Package: liblvm2-dev
+Architecture: arm64
+Version: 2.03.11-2ubuntu4~ubuntu20.04.1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: lvm2
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian LVM Team <team+lvm@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 42
+Depends: liblvm2cmd2.03 (= 2.03.11-2ubuntu4~ubuntu20.04.1), libdevmapper-dev
+Filename: pool/main/l/lvm2/liblvm2-dev_2.03.11-2ubuntu4~ubuntu20.04.1_arm64.deb
+Size: 3772
+MD5sum: c33c7988643d36f10bb0cb9a60275269
+SHA1: a7e9dc0e54190bb73fe6891b8332b49794bbed66
+SHA256: e308268b7ade94fcac8d5596d2ec2d44620b60d417c5ac073e306d873206402c
+SHA512: 7dde3c240674f0ce6ab3ac34c710c5bc489afb85a9105e1884def7df90ae5e92bec880a33385aa7fba0d2e7c1c48eede34d478e368ca2f7f2cf3f3d1ec881d82
+Homepage: https://sourceware.org/lvm2/
+Description: LVM2 libraries - development files
+Description-md5: 9355c51a0fa4f1589861097790213f32
+
+Package: liblvm2cmd2.03
+Architecture: arm64
+Version: 2.03.11-2ubuntu4~ubuntu20.04.1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: lvm2
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian LVM Team <team+lvm@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 2881
+Depends: libaio1 (>= 0.3.93), libblkid1 (>= 2.24.2), libc6 (>= 2.28), libselinux1 (>= 1.32), libsystemd0 (>= 222), libudev1 (>= 183), dmeventd
+Filename: pool/main/l/lvm2/liblvm2cmd2.03_2.03.11-2ubuntu4~ubuntu20.04.1_arm64.deb
+Size: 596464
+MD5sum: 88b878eda76e2ce03134670322ba1dc0
+SHA1: ccaadd902a071270155c4632a9df74b1ddd87772
+SHA256: 3f4b88b0bfeecd0122599a6514302d8acefe76100864d74e4fc3b370245b7645
+SHA512: c0c94b0b7bf30d58962b20e32c6129b4182ce749a396082566052cc5c90468c0bcd548e71bf08385c8b756f79f5d36acd7708b92b736ee07d557b6d4fe4c6454
+Homepage: https://sourceware.org/lvm2/
+Description: LVM2 command library
+Task: server, cloud-image, ubuntu-live, kubuntu-live, xubuntu-live, lubuntu-live, ubuntustudio-dvd-live, ubuntukylin-live, ubuntu-mate-live, ubuntu-budgie-live
+Description-md5: 8f4d76592086bd210b07fd8b6370be43
+
+Package: lvm2
+Architecture: arm64
+Version: 2.03.11-2ubuntu4~ubuntu20.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: admin
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian LVM Team <team+lvm@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 3993
+Pre-Depends: init-system-helpers (>= 1.54~)
+Depends: libaio1 (>= 0.3.93), libblkid1 (>= 2.24.2), libc6 (>= 2.28), libdevmapper-event1.02.1 (>= 2:1.02.74), libedit2 (>= 2.11-20080614-0), libselinux1 (>= 1.32), libsystemd0 (>= 222), libudev1 (>= 183), lsb-base, dmsetup (>= 2:1.02.175-2ubuntu4~ubuntu20.04.1~), dmeventd (>= 2:1.02.175-2ubuntu4~ubuntu20.04.1~)
+Recommends: thin-provisioning-tools
+Filename: pool/main/l/lvm2/lvm2_2.03.11-2ubuntu4~ubuntu20.04.1_arm64.deb
+Size: 980592
+MD5sum: 0da52ec060d534920c6ac4d64684f303
+SHA1: 00fa27d2d37cb133f9f48a12c6fda47693513f2d
+SHA256: ad2d916b5085bbf57dc890a85135977aa3810c93528769bd511864413752cd43
+SHA512: 8f29b5aa01400e60f5bb4036dc1644ef0421f19d8a346002544919d62493ccce1989588c2c6561309b27f06258e0c0b63552a36f962782c66335e46a1766a528
+Homepage: https://sourceware.org/lvm2/
+Description: Linux Logical Volume Manager
+Task: server, cloud-image, ubuntu-live, kubuntu-live, xubuntu-live, lubuntu-live, ubuntustudio-dvd-live, ubuntukylin-live, ubuntu-mate-live, ubuntu-budgie-live
+Description-md5: 9df95d102d2b0aad5aff13603ef0cb3f
+

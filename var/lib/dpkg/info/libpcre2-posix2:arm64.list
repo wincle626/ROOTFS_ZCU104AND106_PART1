@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/aarch64-linux-gnu
+/usr/lib/aarch64-linux-gnu/libpcre2-posix.so.2.0.3
+/usr/share
+/usr/share/doc
+/usr/share/doc/libpcre2-posix2
+/usr/share/doc/libpcre2-posix2/copyright
+/usr/lib/aarch64-linux-gnu/libpcre2-posix.so.2
+/usr/share/doc/libpcre2-posix2/changelog.Debian.gz

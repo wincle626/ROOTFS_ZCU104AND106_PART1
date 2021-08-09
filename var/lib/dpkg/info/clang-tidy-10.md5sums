@@ -1,0 +1,6 @@
+92d8a438592d0a9dd1556bf73375b414  usr/lib/llvm-10/bin/clang-tidy
+3842d67a2b43d368dff2fa2df01625ac  usr/lib/llvm-10/share/clang/clang-tidy-diff.py
+51cf89a077cc35339b76f28a720cc38e  usr/lib/llvm-10/share/clang/run-clang-tidy.py
+58e9c022801e118e225247276f1341bc  usr/share/doc/clang-tidy-10/copyright
+f33c659e219afd8c2be7ba9663839a55  usr/share/lintian/overrides/clang-tidy-10
+baec2ef32233e9076842ba0e3a944c70  usr/share/man/man1/clang-tidy-10.1.gz

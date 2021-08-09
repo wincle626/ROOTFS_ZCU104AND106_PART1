@@ -1,0 +1,6 @@
+216542758170741b5917bb393229cf12  usr/lib/aarch64-linux-gnu/libwoff2common.so.1.0.2
+a95281d7303e3bf155fe9d781bc0966a  usr/lib/aarch64-linux-gnu/libwoff2dec.so.1.0.2
+2d447d25f72238698f8594644f7a1446  usr/lib/aarch64-linux-gnu/libwoff2enc.so.1.0.2
+a6387d047785b86d98b31a82fdec95c8  usr/share/doc/libwoff1/changelog.Debian.gz
+37986d05f55caded90d405063340d15b  usr/share/doc/libwoff1/copyright
+266e28c8efb64e476fa95db6ef6f2d1d  usr/share/lintian/overrides/libwoff1

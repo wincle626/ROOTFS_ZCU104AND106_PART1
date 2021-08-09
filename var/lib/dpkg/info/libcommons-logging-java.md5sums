@@ -1,0 +1,11 @@
+d431870eb9594fd43c49cb5658428dd6  usr/share/doc/libcommons-logging-java/changelog.Debian.gz
+b0e65f936691e527a6ab6870b8b8ec6e  usr/share/doc/libcommons-logging-java/copyright
+727f0b9c70a97eb7ecd1ea5e138db484  usr/share/java/commons-logging-1.2.jar
+aa21f4efb94bf6931ffa5d26ca7a1914  usr/share/java/commons-logging-adapters-1.2.jar
+abb3a75e8c8c9b6722fec7284f01cd5d  usr/share/java/commons-logging-api-1.2.jar
+59e5a6634455f249d1c63c2bb7f9d71d  usr/share/maven-repo/commons-logging/commons-logging-adapters/1.2/commons-logging-adapters-1.2.pom
+8e8a13c02de672cf1a14a51b592f4dfa  usr/share/maven-repo/commons-logging/commons-logging-adapters/debian/commons-logging-adapters-debian.pom
+514888cbbb7b425aa114954f736539e2  usr/share/maven-repo/commons-logging/commons-logging-api/1.2/commons-logging-api-1.2.pom
+565edf5698c21690c16e8b67ba40c76e  usr/share/maven-repo/commons-logging/commons-logging-api/debian/commons-logging-api-debian.pom
+94962b9c3ee7116fd698a8102407afb3  usr/share/maven-repo/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+ba0b7d8d25874df06fd59518c42b2398  usr/share/maven-repo/commons-logging/commons-logging/debian/commons-logging-debian.pom

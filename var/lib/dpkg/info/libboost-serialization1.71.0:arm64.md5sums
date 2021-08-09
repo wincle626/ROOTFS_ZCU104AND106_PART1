@@ -1,0 +1,5 @@
+7d420479c181ff64f4b91aaac9b21aa8  usr/lib/aarch64-linux-gnu/libboost_serialization.so.1.71.0
+9c8fdf2db0d048ee3c01df3f9b656909  usr/lib/aarch64-linux-gnu/libboost_wserialization.so.1.71.0
+f64d33d6e2f5db252e397ed5b6b70ed9  usr/share/doc/libboost-serialization1.71.0/changelog.Debian.gz
+9d2f436c4c0949f90afe02e5ffdc9f4d  usr/share/doc/libboost-serialization1.71.0/copyright
+f0530d8e2b70c83c5925731db768a2f2  usr/share/lintian/overrides/libboost-serialization1.71.0

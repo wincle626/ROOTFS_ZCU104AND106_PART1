@@ -1,0 +1,136 @@
+/usr/share/fonts: caching, new cache contents: 0 fonts, 10 dirs
+/usr/share/fonts/X11: caching, new cache contents: 0 fonts, 3 dirs
+/usr/share/fonts/X11/Type1: caching, new cache contents: 73 fonts, 0 dirs
+/usr/share/fonts/X11/encodings: caching, new cache contents: 0 fonts, 1 dirs
+/usr/share/fonts/X11/encodings/large: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/X11/util: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/cMap: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/cmap: caching, new cache contents: 0 fonts, 5 dirs
+/usr/share/fonts/cmap/adobe-cns1: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/cmap/adobe-gb1: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/cmap/adobe-japan1: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/cmap/adobe-japan2: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/cmap/adobe-korea1: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/eot: caching, new cache contents: 0 fonts, 1 dirs
+/usr/share/fonts/eot/font-awesome: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/fonts-go: caching, new cache contents: 12 fonts, 0 dirs
+/usr/share/fonts/opentype: caching, new cache contents: 0 fonts, 12 dirs
+/usr/share/fonts/opentype/cabin: caching, new cache contents: 8 fonts, 0 dirs
+/usr/share/fonts/opentype/cantarell: caching, new cache contents: 5 fonts, 0 dirs
+/usr/share/fonts/opentype/ebgaramond: caching, new cache contents: 10 fonts, 0 dirs
+/usr/share/fonts/opentype/font-awesome: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/opentype/freefont: caching, new cache contents: 12 fonts, 0 dirs
+/usr/share/fonts/opentype/gentiumplus: caching, new cache contents: 2 fonts, 0 dirs
+/usr/share/fonts/opentype/linux-libertine: caching, new cache contents: 13 fonts, 0 dirs
+/usr/share/fonts/opentype/lobster: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/opentype/lobstertwo: caching, new cache contents: 4 fonts, 0 dirs
+/usr/share/fonts/opentype/stix: caching, new cache contents: 29 fonts, 0 dirs
+/usr/share/fonts/opentype/stix-word: caching, new cache contents: 5 fonts, 0 dirs
+/usr/share/fonts/opentype/urw-base35: caching, new cache contents: 35 fonts, 0 dirs
+/usr/share/fonts/svg: caching, new cache contents: 0 fonts, 1 dirs
+/usr/share/fonts/svg/font-awesome: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/truetype: caching, new cache contents: 0 fonts, 26 dirs
+/usr/share/fonts/truetype/adf: caching, new cache contents: 41 fonts, 0 dirs
+/usr/share/fonts/truetype/artemisia: caching, new cache contents: 4 fonts, 0 dirs
+/usr/share/fonts/truetype/asana-math: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/truetype/comfortaa: caching, new cache contents: 3 fonts, 0 dirs
+/usr/share/fonts/truetype/complutum: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/truetype/croscore: caching, new cache contents: 12 fonts, 0 dirs
+/usr/share/fonts/truetype/crosextra: caching, new cache contents: 8 fonts, 0 dirs
+/usr/share/fonts/truetype/dejavu: caching, new cache contents: 22 fonts, 0 dirs
+/usr/share/fonts/truetype/didot: caching, new cache contents: 4 fonts, 0 dirs
+/usr/share/fonts/truetype/droid: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/truetype/ebgaramond: caching, new cache contents: 10 fonts, 0 dirs
+/usr/share/fonts/truetype/font-awesome: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/truetype/freefont: caching, new cache contents: 12 fonts, 0 dirs
+/usr/share/fonts/truetype/gentium: caching, new cache contents: 4 fonts, 0 dirs
+/usr/share/fonts/truetype/gentium-basic: caching, new cache contents: 8 fonts, 0 dirs
+/usr/share/fonts/truetype/gentiumplus: caching, new cache contents: 2 fonts, 0 dirs
+/usr/share/fonts/truetype/junicode: caching, new cache contents: 5 fonts, 0 dirs
+/usr/share/fonts/truetype/lato: caching, new cache contents: 18 fonts, 0 dirs
+/usr/share/fonts/truetype/lyx: caching, new cache contents: 11 fonts, 0 dirs
+/usr/share/fonts/truetype/neohellenic: caching, new cache contents: 4 fonts, 0 dirs
+/usr/share/fonts/truetype/noto: caching, new cache contents: 224 fonts, 0 dirs
+/usr/share/fonts/truetype/olga: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/truetype/open-sans: caching, new cache contents: 13 fonts, 0 dirs
+/usr/share/fonts/truetype/roboto: caching, new cache contents: 0 fonts, 1 dirs
+/usr/share/fonts/truetype/roboto/unhinted: caching, new cache contents: 8 fonts, 1 dirs
+/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF: caching, new cache contents: 12 fonts, 0 dirs
+/usr/share/fonts/truetype/solomos: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/truetype/ttf-bitstream-vera: caching, new cache contents: 10 fonts, 0 dirs
+/usr/share/fonts/type1: caching, new cache contents: 0 fonts, 2 dirs
+/usr/share/fonts/type1/texlive-fonts-recommended: caching, new cache contents: 12 fonts, 0 dirs
+/usr/share/fonts/type1/urw-base35: caching, new cache contents: 35 fonts, 0 dirs
+/usr/share/fonts/woff: caching, new cache contents: 0 fonts, 2 dirs
+/usr/share/fonts/woff/ebgaramond: caching, new cache contents: 10 fonts, 0 dirs
+/usr/share/fonts/woff/font-awesome: caching, new cache contents: 1 fonts, 0 dirs
+/usr/local/share/fonts: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/texmf/fonts/opentype/public/lm: caching, new cache contents: 72 fonts, 0 dirs
+/usr/share/texmf/fonts/opentype/public/lm-math: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/X11: skipping, looped directory detected
+/usr/share/fonts/cMap: skipping, looped directory detected
+/usr/share/fonts/cmap: skipping, looped directory detected
+/usr/share/fonts/eot: skipping, looped directory detected
+/usr/share/fonts/fonts-go: skipping, looped directory detected
+/usr/share/fonts/opentype: skipping, looped directory detected
+/usr/share/fonts/svg: skipping, looped directory detected
+/usr/share/fonts/truetype: skipping, looped directory detected
+/usr/share/fonts/type1: skipping, looped directory detected
+/usr/share/fonts/woff: skipping, looped directory detected
+/usr/share/fonts/X11/Type1: skipping, looped directory detected
+/usr/share/fonts/X11/encodings: skipping, looped directory detected
+/usr/share/fonts/X11/util: skipping, looped directory detected
+/usr/share/fonts/cmap/adobe-cns1: skipping, looped directory detected
+/usr/share/fonts/cmap/adobe-gb1: skipping, looped directory detected
+/usr/share/fonts/cmap/adobe-japan1: skipping, looped directory detected
+/usr/share/fonts/cmap/adobe-japan2: skipping, looped directory detected
+/usr/share/fonts/cmap/adobe-korea1: skipping, looped directory detected
+/usr/share/fonts/eot/font-awesome: skipping, looped directory detected
+/usr/share/fonts/opentype/cabin: skipping, looped directory detected
+/usr/share/fonts/opentype/cantarell: skipping, looped directory detected
+/usr/share/fonts/opentype/ebgaramond: skipping, looped directory detected
+/usr/share/fonts/opentype/font-awesome: skipping, looped directory detected
+/usr/share/fonts/opentype/freefont: skipping, looped directory detected
+/usr/share/fonts/opentype/gentiumplus: skipping, looped directory detected
+/usr/share/fonts/opentype/linux-libertine: skipping, looped directory detected
+/usr/share/fonts/opentype/lobster: skipping, looped directory detected
+/usr/share/fonts/opentype/lobstertwo: skipping, looped directory detected
+/usr/share/fonts/opentype/stix: skipping, looped directory detected
+/usr/share/fonts/opentype/stix-word: skipping, looped directory detected
+/usr/share/fonts/opentype/urw-base35: skipping, looped directory detected
+/usr/share/fonts/svg/font-awesome: skipping, looped directory detected
+/usr/share/fonts/truetype/adf: skipping, looped directory detected
+/usr/share/fonts/truetype/artemisia: skipping, looped directory detected
+/usr/share/fonts/truetype/asana-math: skipping, looped directory detected
+/usr/share/fonts/truetype/comfortaa: skipping, looped directory detected
+/usr/share/fonts/truetype/complutum: skipping, looped directory detected
+/usr/share/fonts/truetype/croscore: skipping, looped directory detected
+/usr/share/fonts/truetype/crosextra: skipping, looped directory detected
+/usr/share/fonts/truetype/dejavu: skipping, looped directory detected
+/usr/share/fonts/truetype/didot: skipping, looped directory detected
+/usr/share/fonts/truetype/droid: skipping, looped directory detected
+/usr/share/fonts/truetype/ebgaramond: skipping, looped directory detected
+/usr/share/fonts/truetype/font-awesome: skipping, looped directory detected
+/usr/share/fonts/truetype/freefont: skipping, looped directory detected
+/usr/share/fonts/truetype/gentium: skipping, looped directory detected
+/usr/share/fonts/truetype/gentium-basic: skipping, looped directory detected
+/usr/share/fonts/truetype/gentiumplus: skipping, looped directory detected
+/usr/share/fonts/truetype/junicode: skipping, looped directory detected
+/usr/share/fonts/truetype/lato: skipping, looped directory detected
+/usr/share/fonts/truetype/lyx: skipping, looped directory detected
+/usr/share/fonts/truetype/neohellenic: skipping, looped directory detected
+/usr/share/fonts/truetype/noto: skipping, looped directory detected
+/usr/share/fonts/truetype/olga: skipping, looped directory detected
+/usr/share/fonts/truetype/open-sans: skipping, looped directory detected
+/usr/share/fonts/truetype/roboto: skipping, looped directory detected
+/usr/share/fonts/truetype/solomos: skipping, looped directory detected
+/usr/share/fonts/truetype/ttf-bitstream-vera: skipping, looped directory detected
+/usr/share/fonts/type1/texlive-fonts-recommended: skipping, looped directory detected
+/usr/share/fonts/type1/urw-base35: skipping, looped directory detected
+/usr/share/fonts/woff/ebgaramond: skipping, looped directory detected
+/usr/share/fonts/woff/font-awesome: skipping, looped directory detected
+/usr/share/fonts/X11/encodings/large: skipping, looped directory detected
+/usr/share/fonts/truetype/roboto/unhinted: skipping, looped directory detected
+/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF: skipping, looped directory detected
+/var/cache/fontconfig: cleaning cache directory
+fc-cache: succeeded

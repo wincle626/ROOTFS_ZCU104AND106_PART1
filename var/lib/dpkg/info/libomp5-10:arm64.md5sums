@@ -1,0 +1,6 @@
+1b4956049540a1851baa338f004c8401  usr/lib/llvm-10/lib/libomp-10.so.5
+1b4956049540a1851baa338f004c8401  usr/lib/llvm-10/lib/libomp.so.5
+00220379cbe72219965caa787cac1dd6  usr/share/doc/libomp5-10/NEWS.Debian.gz
+9f4ce0bc799e3919cba2f6611eb674dc  usr/share/doc/libomp5-10/changelog.Debian.gz
+58e9c022801e118e225247276f1341bc  usr/share/doc/libomp5-10/copyright
+3752b7917ae8684e7c97eed25fbb9c3d  usr/share/lintian/overrides/libomp5-10

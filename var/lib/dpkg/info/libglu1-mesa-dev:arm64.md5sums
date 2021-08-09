@@ -1,0 +1,5 @@
+e73ac8a2216762249e124f3f9de8c2df  usr/include/GL/glu.h
+75cf85da1887045963c5f26a00e8f5dc  usr/include/GL/glu_mangle.h
+663e2ddd661d79b2a4ac45acaab601b8  usr/lib/aarch64-linux-gnu/libGLU.a
+d692ff0384702646853bb4200d54adcb  usr/lib/aarch64-linux-gnu/pkgconfig/glu.pc
+bee6cfff9246ca07ac624c883a938981  usr/share/doc/libglu1-mesa-dev/copyright

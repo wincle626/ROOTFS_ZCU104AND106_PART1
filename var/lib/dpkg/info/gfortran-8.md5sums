@@ -1,0 +1,17 @@
+4f1639b22c43cd12b4d3667018d66387  usr/bin/aarch64-linux-gnu-gfortran-8
+3d92c78ce5bc3e150006adebba192f21  usr/lib/gcc/aarch64-linux-gnu/8/f951
+bed1a0c1c29bd414860ddde82b1a5ea0  usr/lib/gcc/aarch64-linux-gnu/8/finclude/ieee_arithmetic.mod
+6bb41a1bc0bde0b334b2165c5bb421f7  usr/lib/gcc/aarch64-linux-gnu/8/finclude/ieee_exceptions.mod
+46293b195043132ded7aa47ca35f45c8  usr/lib/gcc/aarch64-linux-gnu/8/finclude/ieee_features.mod
+e7cf6e699ae08d88faccaf19127375ac  usr/lib/gcc/aarch64-linux-gnu/8/finclude/omp_lib.f90
+4b290f6cbf061d782ef9ebfb757ef8db  usr/lib/gcc/aarch64-linux-gnu/8/finclude/omp_lib.h
+2bb7e37286f26f6a6466e8cb798d0095  usr/lib/gcc/aarch64-linux-gnu/8/finclude/omp_lib.mod
+1e8d3954f6d668053c3d79da22b59378  usr/lib/gcc/aarch64-linux-gnu/8/finclude/omp_lib_kinds.mod
+1dae47d97eec74bc20f12e69e90001c9  usr/lib/gcc/aarch64-linux-gnu/8/finclude/openacc.f90
+d8b00868aad239306df20c4d84e9e2b2  usr/lib/gcc/aarch64-linux-gnu/8/finclude/openacc.mod
+c4c2c3374924f56519587e41a179a48b  usr/lib/gcc/aarch64-linux-gnu/8/finclude/openacc_kinds.mod
+bd287e782ca9ca3513b447031eeaf99a  usr/lib/gcc/aarch64-linux-gnu/8/finclude/openacc_lib.h
+cd8158e4e9383e955ced0effb48a7a9a  usr/lib/gcc/aarch64-linux-gnu/8/libgfortran.spec
+a84614d9b8159b44a5e15e4ceef0618e  usr/share/doc/gcc-8-base/fortran/changelog.gz
+616f19a80da1b90d7e1dbfd0ddd44c1d  usr/share/lintian/overrides/gfortran-8
+421e5e7a7666a8b5cb8c870ab4a1dd83  usr/share/man/man1/aarch64-linux-gnu-gfortran-8.1.gz

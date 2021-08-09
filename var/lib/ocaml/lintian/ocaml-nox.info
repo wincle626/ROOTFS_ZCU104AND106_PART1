@@ -1,0 +1,59 @@
+Package: ocaml-nox
+Runtime: ocaml-base-nox
+Version: 4.08.1-8
+ForcedChecksum: 4.08.1
+
+File: debian/ocaml-nox/usr/lib/ocaml/dynlink.cma
+Force custom: no
+Extra C object files:
+Extra C options: -Wl,-E
+
+File: debian/ocaml-nox/usr/lib/ocaml/stdlib.cma
+Force custom: no
+Extra C object files:
+Extra C options:
+
+File: debian/ocaml-nox/usr/lib/ocaml/ocamldoc/odoc_info.cma
+Force custom: no
+Extra C object files:
+Extra C options:
+
+File: debian/ocaml-nox/usr/lib/ocaml/threads/threads.cma
+Force custom: no
+Extra C object files: -lthreads -lunix -lpthread
+Extra C options:
+
+File: debian/ocaml-nox/usr/lib/ocaml/vmthreads/stdlib.cma
+Force custom: no
+Extra C object files:
+Extra C options:
+
+File: debian/ocaml-nox/usr/lib/ocaml/vmthreads/threads.cma
+Force custom: no
+Extra C object files: -lvmthreads
+Extra C options:
+
+File: debian/ocaml-nox/usr/lib/ocaml/vmthreads/unix.cma
+Force custom: no
+Extra C object files: -lunix
+Extra C options:
+
+File: debian/ocaml-base-nox/usr/lib/ocaml/bigarray.cma
+Force custom: no
+Extra C object files:
+Extra C options:
+
+File: debian/ocaml-base-nox/usr/lib/ocaml/raw_spacetime_lib.cma
+Force custom: no
+Extra C object files: -lraw_spacetime_lib
+Extra C options:
+
+File: debian/ocaml-base-nox/usr/lib/ocaml/str.cma
+Force custom: no
+Extra C object files: -lcamlstr
+Extra C options:
+
+File: debian/ocaml-base-nox/usr/lib/ocaml/unix.cma
+Force custom: no
+Extra C object files: -lunix
+Extra C options:

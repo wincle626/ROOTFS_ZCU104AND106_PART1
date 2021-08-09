@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/bin
+/usr/bin/miniunzip
+/usr/bin/minizip
+/usr/share
+/usr/share/doc
+/usr/share/doc/minizip
+/usr/share/doc/minizip/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/miniunzip.1.gz
+/usr/share/man/man1/minizip.1.gz
+/usr/share/doc/minizip/changelog.Debian.gz

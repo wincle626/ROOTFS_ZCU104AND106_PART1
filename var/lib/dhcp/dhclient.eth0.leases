@@ -1,0 +1,35 @@
+default-duid "\000\001\000\001'\246\253\201\000\0125\000\"\001";
+lease {
+  interface "eth0";
+  fixed-address 10.42.0.47;
+  option subnet-mask 255.255.255.0;
+  option routers 10.42.0.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 10.42.0.1;
+  option dhcp-server-identifier 10.42.0.1;
+  option dhcp-renewal-time 1800;
+  option broadcast-address 10.42.0.255;
+  option dhcp-rebinding-time 3150;
+  option host-name "udrc";
+  renew 5 2021/01/29 11:31:13;
+  rebind 5 2021/01/29 11:31:13;
+  expire 5 2021/01/29 11:31:13;
+}
+lease {
+  interface "eth0";
+  fixed-address 10.42.0.47;
+  option subnet-mask 255.255.255.0;
+  option routers 10.42.0.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 10.42.0.1;
+  option dhcp-server-identifier 10.42.0.1;
+  option dhcp-renewal-time 1800;
+  option broadcast-address 10.42.0.255;
+  option dhcp-rebinding-time 3150;
+  option host-name "udrc-zcu106";
+  renew 5 2021/01/29 11:55:48;
+  rebind 5 2021/01/29 12:24:10;
+  expire 5 2021/01/29 12:31:40;
+}

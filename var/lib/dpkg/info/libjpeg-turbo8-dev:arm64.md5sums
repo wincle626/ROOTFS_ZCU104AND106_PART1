@@ -1,0 +1,12 @@
+babd42dce9af15ff491e470d415351e3  usr/include/aarch64-linux-gnu/jconfig.h
+9b7898fe417de269b8be88b10df908b0  usr/include/jerror.h
+7873b0a4457d21a746e23c16fc16127d  usr/include/jmorecfg.h
+be4334ad56cf4315167cd6e1e286348f  usr/include/jpegint.h
+49b0829e2b84fcd4a0cee359199499cb  usr/include/jpeglib.h
+146e68a614137bfc7b3fe95e955b74d8  usr/lib/aarch64-linux-gnu/libjpeg.a
+dd0f04d987ba0f76c5bd402d427626aa  usr/lib/aarch64-linux-gnu/pkgconfig/libjpeg.pc
+4e6f8c66815565ce72dc14921103e745  usr/share/doc/libjpeg-turbo8-dev/README.ijg.gz
+7ed012908811e67be9a971d5284f7cd6  usr/share/doc/libjpeg-turbo8-dev/README.md.gz
+e39223df5fbe3c7cb10afbe26798022c  usr/share/doc/libjpeg-turbo8-dev/copyright
+f38618cd50d6aa12b5c10509ae1eaeb4  usr/share/doc/libjpeg-turbo8-dev/libjpeg.txt.gz
+0529ddeb7dd5185a31440d39d149beef  usr/share/doc/libjpeg-turbo8-dev/structure.txt.gz

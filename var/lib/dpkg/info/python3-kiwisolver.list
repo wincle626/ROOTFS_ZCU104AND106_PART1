@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3
+/usr/lib/python3/dist-packages
+/usr/lib/python3/dist-packages/kiwisolver-1.0.1.egg-info
+/usr/lib/python3/dist-packages/kiwisolver-1.0.1.egg-info/PKG-INFO
+/usr/lib/python3/dist-packages/kiwisolver-1.0.1.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/kiwisolver-1.0.1.egg-info/requires.txt
+/usr/lib/python3/dist-packages/kiwisolver-1.0.1.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/kiwisolver.cpython-38-aarch64-linux-gnu.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/python3-kiwisolver
+/usr/share/doc/python3-kiwisolver/README.rst
+/usr/share/doc/python3-kiwisolver/changelog.Debian.gz
+/usr/share/doc/python3-kiwisolver/copyright

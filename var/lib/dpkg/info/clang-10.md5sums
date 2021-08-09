@@ -1,0 +1,10 @@
+ec65c3ffb5fd072675a9b7f0ae2746de  usr/bin/asan_symbolize-10
+6d457797b0d1b384e552cc7d5265204a  usr/lib/llvm-10/bin/clang
+ce830183ab4ecf4f5f376e6cdd57250d  usr/lib/llvm-10/lib/cmake/clang/ClangConfig.cmake
+2cb1cc27b8d6f58ff626009d9f2698a4  usr/lib/llvm-10/lib/cmake/clang/ClangTargets-relwithdebinfo.cmake
+d3e6c6cff7a816f0f304a582297d3583  usr/lib/llvm-10/lib/cmake/clang/ClangTargets.cmake
+6a2bfdd8f1c40b1ce86f73e832dd8654  usr/lib/llvm-10/share/clang/bash-autocomplete.sh
+2710ed095bae1c2b447a92dde3b77968  usr/share/doc/clang-10/TODO.Debian
+58e9c022801e118e225247276f1341bc  usr/share/doc/clang-10/copyright
+8d53474fbd72c953257f2cabfc358a15  usr/share/lintian/overrides/clang-10
+6408e9e95e3331476526494b69796d9f  usr/share/man/man1/clang-10.1.gz

@@ -1,0 +1,8 @@
+6a1b6b027a5d295a2b49ff4adb8d5f93  usr/include/elfutils/elf-knowledge.h
+83fa6126d8e020003236382a09770407  usr/include/elfutils/version.h
+273afd7015cac7334fa770efee5f56b4  usr/include/gelf.h
+72da4d429c4c38818414c28758c225e9  usr/include/libelf.h
+ce6c40d6edbd166d0326d342a677d82c  usr/include/nlist.h
+62c0439b89f467f416d197152e1ac0e1  usr/lib/aarch64-linux-gnu/libelf.a
+403dddf92537d0313d94b9c0309f1d76  usr/lib/aarch64-linux-gnu/pkgconfig/libelf.pc
+1d232728ffa3621747194b51924e780b  usr/share/doc/libelf-dev/copyright

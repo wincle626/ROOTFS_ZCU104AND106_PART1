@@ -1,0 +1,11 @@
+61707b9dc5585c9dec2c5e842a086dc6  usr/lib/qt5/bin/fixqt4headers.pl
+a300d6c9b0dae154b0c2b6cc0a95f5e7  usr/lib/qt5/bin/moc
+31ce85ae38399326c2f8bfa02a3167b4  usr/lib/qt5/bin/qdbuscpp2xml
+df55ed3c756cfd42408e1201718f466e  usr/lib/qt5/bin/qdbusxml2cpp
+182923cd1713fd59d96e0599515009f0  usr/lib/qt5/bin/qlalr
+b7ee877f6f6ece5c5a1056fd771328c5  usr/lib/qt5/bin/qvkgen
+9561c744a87dd03cf3ae697af4545b60  usr/lib/qt5/bin/rcc
+8fc1cabcb61cada2a7a439bf983463a1  usr/lib/qt5/bin/syncqt.pl
+08ef4446f6ae816f02064f2c92368cd7  usr/lib/qt5/bin/uic
+85c5229cbe8714ba2540fffea51a53eb  usr/share/doc/qtbase5-dev-tools/copyright
+12ae49acae851c8907baba0acbe28739  usr/share/man/man1/moc-qt5.1.gz

@@ -1,0 +1,15 @@
+75d1588d70b491a57f8a6237ebb8bea8  lib/resolvconf/list-records
+aa5633bce821ccb9c0eae5704fb75819  lib/systemd/system/resolvconf-pull-resolved.path
+fc055bbe952382c9391cc989a9582d43  lib/systemd/system/resolvconf-pull-resolved.service
+392b5d947c88c0d28f778e79bf8a939b  lib/systemd/system/resolvconf.service
+86af1d7017a5300b76b083bdaba84998  sbin/resolvconf
+a361da99e8d05afe116bb8c35a44d73f  usr/lib/tmpfiles.d/resolvconf.conf
+5df7021e2cd07d9a3e388b5e3ae1c0ca  usr/share/doc/resolvconf/NEWS.Debian.gz
+4eb8ba239554b6a2c2aedbe78567167b  usr/share/doc/resolvconf/README.gz
+108334be8b59b9e900bbd23e80459629  usr/share/doc/resolvconf/changelog.gz
+acaff0066721151d6e8ff03129645e27  usr/share/doc/resolvconf/copyright
+92d660e2e5ba16f296057d0afa09127c  usr/share/doc/resolvconf/resolvconf-update-bind
+d2c864498d75e975fa2c9724af940450  usr/share/lintian/overrides/resolvconf
+d6d50ad6f32859c6175414cb110f19c6  usr/share/man/man5/interface-order.5.gz
+ba24f7e64aac72c6eec4d8fbd3959154  usr/share/man/man8/resolvconf.8.gz
+60708fbd787be7a3907a6d4c623908b4  usr/share/resolvconf/dump-debug-info

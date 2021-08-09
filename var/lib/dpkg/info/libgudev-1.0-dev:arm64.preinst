@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_installdeb/12.6.1ubuntu2
+dpkg-maintscript-helper symlink_to_dir /usr/share/doc/libgudev-1.0-dev libgudev-1.0-0 219-12\~ -- "$@"
+# End automatically added section

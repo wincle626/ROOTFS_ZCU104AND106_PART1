@@ -1,0 +1,8 @@
+84f0df80d92f0a94edbefc722325d618  usr/share/doc/libfile-basedir-perl/changelog.Debian.gz
+92d825e0757623025704ff84a05d1b48  usr/share/doc/libfile-basedir-perl/copyright
+5cfb31ea31bd3b3493283c9526d3168a  usr/share/man/man3/File::BaseDir.3pm.gz
+e39acf129f61c16a9b24232840bc5b19  usr/share/man/man3/File::IconTheme.3pm.gz
+f613f5ac68f8ba701d83b43ac1923061  usr/share/man/man3/File::UserDirs.3pm.gz
+3e3090ff31310e1f30a0b23270ead9c9  usr/share/perl5/File/BaseDir.pm
+29c1ca8bc534c15b872720eabbd247a2  usr/share/perl5/File/IconTheme.pm
+5c4ff858859b1a065fda8bf93811e875  usr/share/perl5/File/UserDirs.pm

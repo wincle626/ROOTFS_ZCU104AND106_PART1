@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/bin
+/usr/share
+/usr/share/doc
+/usr/share/doc/clang-tidy
+/usr/share/doc/clang-tidy/NEWS.Debian.gz
+/usr/share/doc/clang-tidy/changelog.gz
+/usr/share/doc/clang-tidy/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/bin/clang-tidy
+/usr/bin/clang-tidy-diff
+/usr/bin/run-clang-tidy
+/usr/share/man/man1/clang-tidy.1.gz

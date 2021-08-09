@@ -1,0 +1,5 @@
+b4019dccff985810a9fc9e30eb510ddf  usr/lib/aarch64-linux-gnu/libjansson.so.4.11.1
+ebaf584b6773966e510733b94ad79827  usr/share/doc/libjansson4/README.rst
+9410aad3384cf35d3b50283fc5a4a09b  usr/share/doc/libjansson4/changelog.Debian.gz
+b973894ed7623da0c97e2b1fdfb307dc  usr/share/doc/libjansson4/copyright
+be0649ee7ad772cedb6ae68afa3ebe8e  usr/share/doc/libjansson4/examples/json_process.c.gz

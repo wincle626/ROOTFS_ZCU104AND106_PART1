@@ -1,0 +1,18 @@
+#!/bin/sh
+
+set -e
+
+if [ "$1" = "configure" ]; then
+
+update-alternatives \
+	--install /usr/include/aarch64-linux-gnu/mpi mpi-aarch64-linux-gnu /usr/lib/aarch64-linux-gnu/openmpi/include 50 \
+	--slave /usr/lib/aarch64-linux-gnu/libmpi.so libmpi.so-aarch64-linux-gnu /usr/lib/aarch64-linux-gnu/openmpi/lib/libmpi.so \
+	--slave /usr/lib/aarch64-linux-gnu/libmpi++.so libmpi++.so-aarch64-linux-gnu /usr/lib/aarch64-linux-gnu/openmpi/lib/libmpi_cxx.so \
+	--slave /usr/lib/aarch64-linux-gnu/pkgconfig/mpi.pc mpi.pc-aarch64-linux-gnu /usr/lib/aarch64-linux-gnu/pkgconfig/ompi.pc \
+	--slave /usr/lib/aarch64-linux-gnu/pkgconfig/mpi-fort.pc mpi-fort.pc-aarch64-linux-gnu /usr/lib/aarch64-linux-gnu/pkgconfig/ompi-fort.pc \
+	--slave /usr/lib/aarch64-linux-gnu/pkgconfig/mpi-c.pc mpi-c.pc-aarch64-linux-gnu /usr/lib/aarch64-linux-gnu/pkgconfig/ompi-c.pc \
+	--slave /usr/lib/aarch64-linux-gnu/pkgconfig/mpi-cxx.pc mpi-cxx.pc-aarch64-linux-gnu /usr/lib/aarch64-linux-gnu/pkgconfig/ompi-cxx.pc
+
+fi
+
+

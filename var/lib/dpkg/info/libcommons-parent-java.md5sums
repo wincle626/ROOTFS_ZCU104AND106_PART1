@@ -1,0 +1,7 @@
+c353a7b31fda63ab5b6c00a4099d556b  usr/share/doc/libcommons-parent-java/NOTICE.txt
+73a6c993bbcc207ed1dc0717957a8016  usr/share/doc/libcommons-parent-java/changelog.Debian.gz
+1c7be90d7fb4b9ab65e2d33d58fea26d  usr/share/doc/libcommons-parent-java/copyright
+f256d3bd6b3ba30146356ed6c8a08da9  usr/share/maven-repo/org/apache/commons/commons-parent/43/commons-parent-43-site.xml
+2c8f6213c58a349d29994860331bb879  usr/share/maven-repo/org/apache/commons/commons-parent/43/commons-parent-43.pom
+f256d3bd6b3ba30146356ed6c8a08da9  usr/share/maven-repo/org/apache/commons/commons-parent/debian/commons-parent-debian-site.xml
+8d249e7f5e3dad6c53f695f8601b93f9  usr/share/maven-repo/org/apache/commons/commons-parent/debian/commons-parent-debian.pom

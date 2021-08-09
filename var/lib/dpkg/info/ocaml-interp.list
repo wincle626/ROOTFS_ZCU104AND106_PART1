@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/bin
+/usr/bin/ocaml
+/usr/share
+/usr/share/applications
+/usr/share/applications/ocaml.desktop
+/usr/share/doc
+/usr/share/doc/ocaml-interp
+/usr/share/doc/ocaml-interp/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/ocaml.1.gz
+/usr/share/pixmaps
+/usr/share/pixmaps/ocaml.xpm
+/usr/share/doc/ocaml-interp/changelog.Debian.gz

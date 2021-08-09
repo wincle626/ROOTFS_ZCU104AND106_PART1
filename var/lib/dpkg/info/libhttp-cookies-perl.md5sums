@@ -1,0 +1,6 @@
+b0f352615b5b77dbbec54c3d240ab52d  usr/share/doc/libhttp-cookies-perl/changelog.Debian.gz
+23c67f4cbbc3542d8c888fd872d26844  usr/share/doc/libhttp-cookies-perl/copyright
+5ab5b67d922ddc85650d3d0ac1674d0a  usr/share/man/man3/HTTP::Cookies.3pm.gz
+ed2998719bbeb1862e507113bef6a36a  usr/share/man/man3/HTTP::Cookies::Netscape.3pm.gz
+f026370e886c46294f8cb1c747b812ed  usr/share/perl5/HTTP/Cookies.pm
+7059a947332ee74b60b3ff1d98b6fe38  usr/share/perl5/HTTP/Cookies/Netscape.pm

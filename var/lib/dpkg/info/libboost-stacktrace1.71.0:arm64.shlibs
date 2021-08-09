@@ -1,0 +1,4 @@
+libboost_stacktrace_addr2line 1.71.0 libboost-stacktrace1.71.0
+libboost_stacktrace_backtrace 1.71.0 libboost-stacktrace1.71.0
+libboost_stacktrace_basic 1.71.0 libboost-stacktrace1.71.0
+libboost_stacktrace_noop 1.71.0 libboost-stacktrace1.71.0

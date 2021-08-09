@@ -1,0 +1,149 @@
+Package: cockpit
+Description-md5: 24b0aa0c07779dcba10e15ca9244d9e9
+Description-en: Web Console for Linux servers
+ The Cockpit Web Console enables users to administer GNU/Linux servers using a
+ web browser.
+ .
+ It offers network configuration, log inspection, diagnostic reports, SELinux
+ troubleshooting, interactive command-line sessions, and more.
+
+Package: cockpit-bridge
+Description-md5: 34419f40043aa83e9a0fb5968fe56ce7
+Description-en: Cockpit bridge server-side component
+ The Cockpit bridge component installed server side and runs commands on
+ the system on behalf of the web based user interface.
+
+Package: cockpit-dashboard
+Description-md5: b1a8495da6efc7dc8e26e4e75f555440
+Description-en: Cockpit remote server dashboard
+ Cockpit page for showing performance graphs for up to 20 remote servers.
+
+Package: cockpit-doc
+Description-md5: 917dc8f7798407683627da6ebb139a47
+Description-en: Cockpit deployment and developer guide
+ The Cockpit Deployment and Developer Guide shows sysadmins how to deploy
+ Cockpit on their machines as well as helps developers who want to embed
+ or extend Cockpit.
+
+Package: cockpit-machines
+Description-md5: 0eb6768a5275b934fab3627c568646c9
+Description-en: Cockpit user interface for virtual machines
+ The Cockpit Web Console enables users to administer GNU/Linux servers using a
+ web browser.
+ .
+ This package adds an user interface for managing virtual machines.
+ .
+ If the "virtinst" package is installed, you can also create new virtual
+ machines.
+
+Package: cockpit-networkmanager
+Description-md5: 3ec1a60ecda81a24c8267c56cf7a9a3f
+Description-en: Cockpit user interface for networking
+ The Cockpit components for interacting with networking configuration.
+
+Package: cockpit-packagekit
+Description-md5: 01ecbad973ab31bb91eb03019d4352aa
+Description-en: Cockpit user interface for packages
+ The Cockpit component for installing packages, via PackageKit.
+
+Package: cockpit-pcp
+Description-md5: 2bcebebdc8b56e2cd8c2ba8755912a8f
+Description-en: Cockpit PCP integration
+ Cockpit support for reading PCP metrics and loading PCP archives.
+
+Package: cockpit-storaged
+Description-md5: f6107ca2b49a2b554a0abcd9b73419c5
+Description-en: Cockpit user interface for storage
+ The Cockpit components for interacting with storage.
+
+Package: cockpit-system
+Description-md5: 305239ce7fcb5c6043156a1e54c69f73
+Description-en: Cockpit admin interface for a system
+ Cockpit admin interface package for configuring and
+ troubleshooting a system.
+
+Package: cockpit-tests
+Description-md5: 0b4ed46aa862cd96d493b081c605101e
+Description-en: Tests for Cockpit
+ This package contains tests and files used while testing Cockpit.
+ These files are not required for running Cockpit.
+
+Package: cockpit-ws
+Description-md5: f492a869e15f8c92004032f384bce124
+Description-en: Cockpit Web Service
+ The Cockpit Web Service listens on the network, and authenticates
+ users.
+ .
+ Install sssd-dbus for supporting client certificate/smart card authentication
+ via sssd/FreeIPA.
+
+Package: ibus-typing-booster
+Description-md5: 8df8727a23407ff87c1e854faf927e9d
+Description-en: Completion input method to speedup typing
+ Ibus-typing-booster is a predictive input method and predicts
+ complete words based on context and partial input. One can then
+ simply select the desired word from a list of suggestions and
+ improve one's typing speed and spelling.
+
+Package: libsanlock-client1
+Description-md5: edc73c794a531608ebfb4fdce34d3c64
+Description-en: Shared storage lock manager (client library)
+ Sanlock ensures that single disk cannot be used by more than
+ one running VM at a time, across any host in a network.
+ .
+ This package contains the public shared library for libvirt.
+
+Package: libsanlock-dev
+Description-md5: 87c3bcc256f0147da7e1aa4c3e30521d
+Description-en: Shared storage lock manager (development files)
+ Sanlock ensures that single disk cannot be used by more than
+ one running VM at a time, across any host in a network.
+ .
+ This package contains the header files and static libraries.
+
+Package: libsanlock1
+Description-md5: 231ad3e47240a19e7df79955888949bf
+Description-en: Shared storage lock manager (shared library)
+ Sanlock ensures that single disk cannot be used by more than
+ one running VM at a time, across any host in a network.
+ .
+ This package contains libsanlock shared library.
+
+Package: lvm2-dbusd
+Description-md5: 58ae61149cfbcb7082b5065979973507
+Description-en: LVM2 D-Bus daemon
+ This is LVM2, the rewrite of The Linux Logical Volume Manager.  LVM
+ supports enterprise level volume management of disk and disk subsystems
+ by grouping arbitrary disks into volume groups. The total capacity of
+ volume groups can be allocated to logical volumes, which are accessed as
+ regular block devices.
+ .
+ This package includes the D-Bus daemon.
+
+Package: lvm2-lockd
+Description-md5: 616fa34a9f75aed256bed16729c930bd
+Description-en: LVM locking daemon
+ This is LVM2, the rewrite of The Linux Logical Volume Manager.  LVM
+ supports enterprise level volume management of disk and disk subsystems
+ by grouping arbitrary disks into volume groups. The total capacity of
+ volume groups can be allocated to logical volumes, which are accessed as
+ regular block devices.
+ .
+ LVM commands use lvmlockd to coordinate access to shared storage.
+
+Package: python3-sanlock
+Description-md5: 3ff9deb2a582537122b5a6bd7bf8848b
+Description-en: Python3 bindings to shared storage lock manager
+ Sanlock ensures that single disk cannot be used by more than
+ one running VM at a time, across any host in a network.
+ .
+ This package contains the Python3 bindings.
+
+Package: sanlock
+Description-md5: bd141da626ec78be3673c3046a692c21
+Description-en: Shared storage lock manager
+ Sanlock ensures that single disk cannot be used by more than
+ one running VM at a time, across any host in a network.
+ .
+ This package contains the binaries and private shared libraries.
+

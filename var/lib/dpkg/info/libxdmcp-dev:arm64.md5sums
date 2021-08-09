@@ -1,0 +1,5 @@
+a83136503ec509b489354bc1d7c49184  usr/include/X11/Xdmcp.h
+6433bdc07daea175739bf74e18f0c4f8  usr/lib/aarch64-linux-gnu/libXdmcp.a
+854cc91038ec11e57b9b2e7e862df86b  usr/lib/aarch64-linux-gnu/pkgconfig/xdmcp.pc
+35343781bdf52fb6ccc51e0985418707  usr/share/doc/libxdmcp-dev/copyright
+9f93b0eb7dcaa60527881bee089de94e  usr/share/doc/libxdmcp-dev/xdmcp.txt.gz

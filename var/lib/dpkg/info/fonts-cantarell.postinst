@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_installdeb/11.3.2ubuntu1
+dpkg-maintscript-helper rm_conffile /etc/fonts/conf.avail/31-cantarell.conf 0.0.25-4\~ fonts-cantarell -- "$@"
+# End automatically added section

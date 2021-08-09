@@ -1,0 +1,9 @@
+Package: ocaml
+Runtime: ocaml-base
+Version: 4.08.1-8
+ForcedChecksum: 4.08.1
+
+File: debian/ocaml-base/usr/lib/ocaml/graphics.cma
+Force custom: no
+Extra C object files: -lgraphics -lX11
+Extra C options:

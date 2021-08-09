@@ -1,0 +1,11 @@
+a8fe016257983f9c2904c79e18c9ac3d  usr/lib/aarch64-linux-gnu/cmake/boost_serialization-1.71.0/boost_serialization-config-version.cmake
+7a77d7acc9c93b02b31ea6536d162723  usr/lib/aarch64-linux-gnu/cmake/boost_serialization-1.71.0/boost_serialization-config.cmake
+0085e40b1867045f401da21d46f31865  usr/lib/aarch64-linux-gnu/cmake/boost_serialization-1.71.0/libboost_serialization-variant-shared.cmake
+e8836a0ffee5b18a3b25f1b821450852  usr/lib/aarch64-linux-gnu/cmake/boost_serialization-1.71.0/libboost_serialization-variant-static.cmake
+a8fe016257983f9c2904c79e18c9ac3d  usr/lib/aarch64-linux-gnu/cmake/boost_wserialization-1.71.0/boost_wserialization-config-version.cmake
+665daece0f3552718e237456da3eed6c  usr/lib/aarch64-linux-gnu/cmake/boost_wserialization-1.71.0/boost_wserialization-config.cmake
+526fa37c2b1649af284390d495c2bf15  usr/lib/aarch64-linux-gnu/cmake/boost_wserialization-1.71.0/libboost_wserialization-variant-shared.cmake
+97b73c47844eac2606edcece9b4eadfa  usr/lib/aarch64-linux-gnu/cmake/boost_wserialization-1.71.0/libboost_wserialization-variant-static.cmake
+ceb4d4b1a22f962111661367bdd79dcd  usr/lib/aarch64-linux-gnu/libboost_serialization.a
+bd71a0853db81b1139895bc7a6c6f898  usr/lib/aarch64-linux-gnu/libboost_wserialization.a
+9d2f436c4c0949f90afe02e5ffdc9f4d  usr/share/doc/libboost-serialization1.71-dev/copyright

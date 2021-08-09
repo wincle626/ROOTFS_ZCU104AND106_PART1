@@ -1,0 +1,465 @@
+Package: cockpit
+Architecture: all
+Version: 248-1~ubuntu20.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: universe/admin
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 65
+Depends: cockpit-bridge (>= 248-1~ubuntu20.04.1), cockpit-ws (>= 248-1~ubuntu20.04.1), cockpit-system (>= 248-1~ubuntu20.04.1)
+Recommends: cockpit-storaged (>= 248-1~ubuntu20.04.1), cockpit-networkmanager (>= 248-1~ubuntu20.04.1), cockpit-packagekit (>= 248-1~ubuntu20.04.1)
+Suggests: cockpit-doc (>= 248-1~ubuntu20.04.1), cockpit-pcp (>= 248-1~ubuntu20.04.1), xdg-utils
+Filename: pool/universe/c/cockpit/cockpit_248-1~ubuntu20.04.1_all.deb
+Size: 18932
+MD5sum: 7682ad3e5adddfd8a5e833f56354c96f
+SHA1: 4d04d0c1f7a9758c17afe38b990820f7830ed1e1
+SHA256: adef4e2fadc0ef0b4d75f7a4096ac3d66b8f82776ff8790d4f6a9ca384456d9f
+SHA512: ff8f15329d2e74b21e488d5c1afad8f0d063f207a9726af975dfff54ebbaeadba923a907fb79f84d53c7edbddf118ee469c710bb79bd923d87c70a642d2b0862
+Homepage: https://cockpit-project.org/
+Description: Web Console for Linux servers
+Description-md5: 24b0aa0c07779dcba10e15ca9244d9e9
+
+Package: cockpit-bridge
+Architecture: arm64
+Version: 248-1~ubuntu20.04.1
+Priority: optional
+Section: universe/admin
+Source: cockpit
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 984
+Provides: cockpit-ssh
+Depends: libc6 (>= 2.27), libglib2.0-0 (>= 2.50), libjson-glib-1.0-0 (>= 1.4.2), libpolkit-agent-1-0 (>= 0.105), libpolkit-gobject-1-0 (>= 0.104), libssh-4 (>= 0.8.5), libsystemd0 (>= 235), glib-networking
+Breaks: cockpit-dashboard (<< 233), cockpit-docker (<< 233), cockpit-networkmanager (<< 233), cockpit-storaged (<< 233), cockpit-system (<< 233), cockpit-tests (<< 233), cockpit-ws (<< 181.x)
+Replaces: cockpit-dashboard (<< 170.x), cockpit-ws (<< 181.x)
+Filename: pool/universe/c/cockpit/cockpit-bridge_248-1~ubuntu20.04.1_arm64.deb
+Size: 447160
+MD5sum: 4119a54953b64b194a1e5e2c1a82e26d
+SHA1: 676191a9e23f9a6915206555708c270aabbf078d
+SHA256: bd9764c345df19efca97f010b992a8d7f5e3f3460f8606bd811ce12d74f633b7
+SHA512: e818e4b77af6335279bb9f213504ca3c97ef7f4df8db312e5608587ec2bfafa523126f8cd924d784d49e7e30441354d3954ac6e9e05f9c9d6ceea4ea54282683
+Homepage: https://cockpit-project.org/
+Description: Cockpit bridge server-side component
+Description-md5: 34419f40043aa83e9a0fb5968fe56ce7
+
+Package: cockpit-dashboard
+Architecture: all
+Version: 233-1~ubuntu20.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: universe/admin
+Source: cockpit
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 352
+Depends: cockpit-bridge (>= 170.x), cockpit-ws (>= 233-1~ubuntu20.04.1), cockpit-ws (<< 233-1~ubuntu20.04.1.1~)
+Replaces: cockpit-system (<< 128), cockpit-ws (<< 128)
+Filename: pool/universe/c/cockpit/cockpit-dashboard_233-1~ubuntu20.04.1_all.deb
+Size: 322316
+MD5sum: 9cf6c7eadca83a8d9be1eae686effc0f
+SHA1: 138cde66575aee710bd9efba6753ae09b539e02b
+SHA256: 6e449b760fe33f07f54eec794a4a77bb8153993c0d5851cf08ba5142676e470b
+SHA512: b96fb34de3b8c1de347dfeae4ea8a961897e6d56e9b5fb5eeb7cbee1f5e09474c14f7d9b106d3b3b28098b1c4f87cfc4c5f2a2d5023e74e8adb478e9e3491210
+Homepage: https://cockpit-project.org/
+Description: Cockpit remote server dashboard
+Description-md5: b1a8495da6efc7dc8e26e4e75f555440
+
+Package: cockpit-doc
+Architecture: all
+Version: 248-1~ubuntu20.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: universe/doc
+Source: cockpit
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 528
+Filename: pool/universe/c/cockpit/cockpit-doc_248-1~ubuntu20.04.1_all.deb
+Size: 130124
+MD5sum: 1df4e4d1a756a7b6d033938e07aac204
+SHA1: 73cbcf7ce145d0f2aa429b1e2e898f648735d967
+SHA256: 7adb8e4edc8644d30b277ac0eaa8429b9b0cb52b32cf230e100e16f5a8b09726
+SHA512: 8aedcba5c0422f533caa4d031eaa0037a92a88741d6cd3d9f3f8d352ab195e8c337d244a0d1080a8c881ae44b0da7aa3c42863b3f8566763961b68292dfb59d6
+Homepage: https://cockpit-project.org/
+Description: Cockpit deployment and developer guide
+Description-md5: 917dc8f7798407683627da6ebb139a47
+
+Package: cockpit-machines
+Architecture: all
+Version: 248-1~ubuntu20.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: universe/admin
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 754
+Depends: cockpit-bridge (>= 215), libvirt-daemon-system, libvirt-clients | libvirt-bin, libvirt-dbus
+Recommends: virtinst, python3-gi, gir1.2-libosinfo-1.0, qemu-block-extra
+Filename: pool/universe/c/cockpit-machines/cockpit-machines_248-1~ubuntu20.04.1_all.deb
+Size: 751204
+MD5sum: adf355db785a3df4420106762438b9c4
+SHA1: 19cfc4ee2b80166c874fd43f960190e6e5c01d33
+SHA256: 3d939e758c35e92a043cfa41cb87573a25e5fa3ebc1be334b7165a244b5d6891
+SHA512: 7d1a22182d0c2197c028f91194da5a048a6cb5db1cd885ca737224c989ead8eb074cdabf52780826c92a24dd07f81160054e265752d339ccec027c7bd614bada
+Homepage: https://github.com/cockpit-project/cockpit-machines
+Description: Cockpit user interface for virtual machines
+Description-md5: 0eb6768a5275b934fab3627c568646c9
+
+Package: cockpit-networkmanager
+Architecture: all
+Version: 248-1~ubuntu20.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: universe/admin
+Source: cockpit
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 656
+Depends: cockpit-bridge (>= 239), network-manager (>= 1.6)
+Filename: pool/universe/c/cockpit/cockpit-networkmanager_248-1~ubuntu20.04.1_all.deb
+Size: 630152
+MD5sum: 2bf0c8f58be7085c23e5c7d0e763229e
+SHA1: eba26d36a250e1b3466114ab543e6c350674473b
+SHA256: fbb2acd7078ae8fedf3357457cb58f18a686dd61845c49ca1b8d4c7550e40af3
+SHA512: f8cfa9e74b6112f5c6f931abdaf9df7e305a649b8cfb30f36f37e59a4ac2a553712508512fa8db089cb92fd378306dc51ecbc3fdbd3d287c9baeaac87be02ea5
+Homepage: https://cockpit-project.org/
+Description: Cockpit user interface for networking
+Description-md5: 3ec1a60ecda81a24c8267c56cf7a9a3f
+
+Package: cockpit-packagekit
+Architecture: all
+Version: 248-1~ubuntu20.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: universe/admin
+Source: cockpit
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 733
+Depends: cockpit-bridge (>= 239), packagekit
+Filename: pool/universe/c/cockpit/cockpit-packagekit_248-1~ubuntu20.04.1_all.deb
+Size: 629152
+MD5sum: 2f140bc0f3071fbad9429a8122542672
+SHA1: 21bed6f880b6351e37f39cc99a83e493961e5b6b
+SHA256: d7ebc74cdd9a02b73062831153630190b9c5b430be1cd0657c60143ad2945edf
+SHA512: 3d65a7f1844715152be0dfbce1c101e7fc0cd77a27e2a18fc4bceeeb2d51ea843952d9339ad1bd91035c1ae2c9da8c02878ca21091d4a4ee837370161a577702
+Homepage: https://cockpit-project.org/
+Description: Cockpit user interface for packages
+Description-md5: 01ecbad973ab31bb91eb03019d4352aa
+
+Package: cockpit-pcp
+Architecture: arm64
+Version: 248-1~ubuntu20.04.1
+Priority: optional
+Section: universe/admin
+Source: cockpit
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 232
+Depends: libc6 (>= 2.25), libglib2.0-0 (>= 2.50), libjson-glib-1.0-0 (>= 1.4.2), libpcp3, cockpit-bridge (>= 239), pcp
+Filename: pool/universe/c/cockpit/cockpit-pcp_248-1~ubuntu20.04.1_arm64.deb
+Size: 67388
+MD5sum: 8f2f096235efe7d542dbf201363b98f3
+SHA1: 8d07f88c3ddc00573c30869ecdbe2707bcffb0bf
+SHA256: e5b1a9a82f3d9e7f4ca0db74e2721c6481c0aa29476cbae2c600ddc6acf22ac6
+SHA512: 95c99b0555a4e76b0e3a421055865356571776078063ba9797398c1d34fe1f70a9905105e12daf8818244ede6fd34d278c8b3eef7930622101f0660b362098fc
+Homepage: https://cockpit-project.org/
+Description: Cockpit PCP integration
+Description-md5: 2bcebebdc8b56e2cd8c2ba8755912a8f
+
+Package: cockpit-storaged
+Architecture: all
+Version: 248-1~ubuntu20.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: universe/admin
+Source: cockpit
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 609
+Depends: udisks2 (>= 2.7), libblockdev-mdraid2, cockpit-bridge (>= 239), python3, python3-dbus
+Filename: pool/universe/c/cockpit/cockpit-storaged_248-1~ubuntu20.04.1_all.deb
+Size: 584324
+MD5sum: 8de6308ff88eb2b1e6410e75609064e2
+SHA1: e802ff33d315dc9c171785c71a9d10b6aaac76e4
+SHA256: 20d0fd2236db3ba7e5e67759a93903b4e964d80025e1608db408ef646e958122
+SHA512: db407088e36f5699b3ef36da0b9369c43094636fa0b37f1dcb5869e401c7ae4f4f5d3514349a649356173c30287d0a00b6111d767246e24d4354ccbdc42bea54
+Homepage: https://cockpit-project.org/
+Description: Cockpit user interface for storage
+Description-md5: f6107ca2b49a2b554a0abcd9b73419c5
+
+Package: cockpit-system
+Architecture: all
+Version: 248-1~ubuntu20.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: universe/admin
+Source: cockpit
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 2537
+Provides: cockpit-shell, cockpit-systemd, cockpit-tuned, cockpit-users
+Depends: cockpit-bridge (>= 239), libpwquality-tools, openssl
+Recommends: sudo | policykit-1
+Conflicts: cockpit-shell
+Breaks: cockpit-dashboard
+Replaces: cockpit-dashboard, cockpit-shell
+Filename: pool/universe/c/cockpit/cockpit-system_248-1~ubuntu20.04.1_all.deb
+Size: 2242044
+MD5sum: 97f15f62152fafe90731d758a16b157d
+SHA1: 88c6c3cb8923476d29bf49ab1aa1d541c0ceae63
+SHA256: 23350ca13013f9c342c816a6634f2eb8d33c269618480329cc2a9f7e782a376f
+SHA512: cbc6ef5e7d8ef5aa5ed187549b2ef63d3a362d94759c801ee68d17cf67bdf9308666741ce5409c3d35c6827f6725fec838a8c305fce5fad393fde6f3e76d6e2d
+Homepage: https://cockpit-project.org/
+Description: Cockpit admin interface for a system
+Description-md5: 305239ce7fcb5c6043156a1e54c69f73
+
+Package: cockpit-tests
+Architecture: arm64
+Version: 248-1~ubuntu20.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: universe/admin
+Source: cockpit
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 1310
+Provides: cockpit-test-assets
+Depends: libc6 (>= 2.17), libpam0g (>= 0.99.7.1), cockpit-system (>= 248-1~ubuntu20.04.1), openssh-client
+Conflicts: cockpit-test-assets
+Replaces: cockpit-test-assets
+Filename: pool/universe/c/cockpit/cockpit-tests_248-1~ubuntu20.04.1_arm64.deb
+Size: 619040
+MD5sum: a64e33ad7c290402dce12472c91834e0
+SHA1: ff40f5295660ae86c34864d64ece56ae68c2df48
+SHA256: f50426f49e690dacdc2ebcf42d964eddc2312c7a7ba6d6a8d40005ad0fca1256
+SHA512: e522b00bb5e4e6aa5797c629e28a18528a1ef32b8acfc2f8277e0a87320545b35dd471a3c6f026b3e7082669f1d842c4221b3dcc05ee537e2c2bb94a6ae8f8d0
+Homepage: https://cockpit-project.org/
+Description: Tests for Cockpit
+Description-md5: 0b4ed46aa862cd96d493b081c605101e
+
+Package: cockpit-ws
+Architecture: arm64
+Version: 248-1~ubuntu20.04.1
+Priority: optional
+Section: universe/admin
+Source: cockpit
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 2377
+Depends: libc6 (>= 2.27), libcrypt1 (>= 1:4.1.0), libglib2.0-0 (>= 2.50), libgnutls30 (>= 3.6.12), libgssapi-krb5-2 (>= 1.14+dfsg), libjson-glib-1.0-0 (>= 1.4.2), libkrb5-3 (>= 1.6.dfsg.2), libpam0g (>= 0.99.7.1), libsystemd0 (>= 237), glib-networking, adduser, openssl, systemd (>= 235)
+Suggests: sssd-dbus
+Filename: pool/universe/c/cockpit/cockpit-ws_248-1~ubuntu20.04.1_arm64.deb
+Size: 1288572
+MD5sum: 55a95f55f2275fef0e80015080762914
+SHA1: 79fb908f9a5e7537b6a8369159fd81bf45151fde
+SHA256: fc6d7ffd05966304808d0679a9269a86e1acf32c7ee9ada4e5107defa9b62685
+SHA512: 1d1b7ff371762effda7c75b2ef6f6f794bbf80bb66f9e144bc714d2ccc7a8fa5ab2f57b7ea02637e272ace48c6a878fdf54dc7b784c623365423c74605da6730
+Homepage: https://cockpit-project.org/
+Description: Cockpit Web Service
+Description-md5: f492a869e15f8c92004032f384bce124
+
+Package: ibus-typing-booster
+Architecture: all
+Version: 2.9.6-1~ubuntu20.04.1
+Priority: optional
+Section: universe/utils
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Input Method Team <debian-input-method@lists.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 72170
+Depends: dconf-gsettings-backend | gsettings-backend, python3:any, ibus (>= 1.5.22-2), libm17n-0, m17n-db, python3-dbus, python3-enchant, python3-xdg
+Filename: pool/universe/i/ibus-typing-booster/ibus-typing-booster_2.9.6-1~ubuntu20.04.1_all.deb
+Size: 5690388
+MD5sum: 111e514d1ef5571e2a8f48cf0d441126
+SHA1: b96cae81e9cd8b135186c88da6cd0732b48dace6
+SHA256: d74998c8fea52d141efde198c897ccfe4162e0e357eefe5f4076320cd219c857
+SHA512: f436169759db0d655287c6a15a49d7831e75ceaf68a894ce4c1bca36eda389a1efa0710c28463885d9e1e312f3c00e79a4fd130198d703b9c023b6ee5ee93252
+Homepage: https://mike-fabian.github.io/ibus-typing-booster/
+Description: Completion input method to speedup typing
+Description-md5: 8df8727a23407ff87c1e854faf927e9d
+
+Package: libsanlock-client1
+Architecture: arm64
+Version: 3.8.2-2~ubuntu20.04.1
+Priority: optional
+Section: universe/libs
+Source: sanlock
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Håvard Flaget Aasen <haavard_aasen@yahoo.no>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 47
+Depends: libc6 (>= 2.17)
+Filename: pool/universe/s/sanlock/libsanlock-client1_3.8.2-2~ubuntu20.04.1_arm64.deb
+Size: 14912
+MD5sum: 3914403888ac3a2fc51944f491b60399
+SHA1: 5d91f4d406025539c9a7524276aaaecff3ac7be1
+SHA256: b1ed11964481e9cd799e9b5d43ba5ae3eca4b6f47f8c9512f769bce16d27bba1
+SHA512: ecee0efe6e3a0a0e3edc700b69d7bb0deecd3c021e4adb8bc734f2c15910b562d3a3b22d0b91b5dc79ee464858ee4bc79e9048634f4e6f2867ed555d0110f226
+Homepage: https://www.pagure.io/sanlock/
+Description: Shared storage lock manager (client library)
+Description-md5: edc73c794a531608ebfb4fdce34d3c64
+
+Package: libsanlock-dev
+Architecture: arm64
+Version: 3.8.2-2~ubuntu20.04.1
+Priority: optional
+Section: universe/libdevel
+Source: sanlock
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Håvard Flaget Aasen <haavard_aasen@yahoo.no>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 58
+Depends: libsanlock-client1 (= 3.8.2-2~ubuntu20.04.1), libsanlock1 (= 3.8.2-2~ubuntu20.04.1), sanlock (= 3.8.2-2~ubuntu20.04.1)
+Filename: pool/universe/s/sanlock/libsanlock-dev_3.8.2-2~ubuntu20.04.1_arm64.deb
+Size: 11464
+MD5sum: 8e6379c8cd56b4f5d03961808845034b
+SHA1: 1171cd73e64c84c866d0604d86b49040ffa8b7fb
+SHA256: a2e7e446fcdc3b80b70155d90ffb0f2bf257dd50303642a996b54c86b20cfc76
+SHA512: e51d7edf1a975db809f77592f4f0a8265e59024ad91832f28e84cdab250f52752e292100e798ff67c757fb8938d275a1daeb42f518dbc5397e2fa18e4c77086f
+Homepage: https://www.pagure.io/sanlock/
+Description: Shared storage lock manager (development files)
+Description-md5: 87c3bcc256f0147da7e1aa4c3e30521d
+
+Package: libsanlock1
+Architecture: arm64
+Version: 3.8.2-2~ubuntu20.04.1
+Priority: optional
+Section: universe/libs
+Source: sanlock
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Håvard Flaget Aasen <haavard_aasen@yahoo.no>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 142
+Depends: libaio1 (>= 0.3.93), libblkid1 (>= 2.17.2), libc6 (>= 2.17)
+Filename: pool/universe/s/sanlock/libsanlock1_3.8.2-2~ubuntu20.04.1_arm64.deb
+Size: 49932
+MD5sum: 83a36b2f4f6f5b2bcc8c0a482e1400bb
+SHA1: 9d51ac9e99adf388147b574df13396ebfbacc1cf
+SHA256: 052c3fb1f28f9b79c3345902f5a9108f927b70778397e7ca92d8127e34edc6fb
+SHA512: 8bfce64764dc10a353f3212ebef0061854c678c662b38d1fba85d9c13912c39e63048f27baa1cdb253d6e25064867067d8c519bcd218e3874a1257ca2b95255d
+Homepage: https://www.pagure.io/sanlock/
+Description: Shared storage lock manager (shared library)
+Description-md5: 231ad3e47240a19e7df79955888949bf
+
+Package: lvm2-dbusd
+Architecture: all
+Version: 2.03.11-2ubuntu4~ubuntu20.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: universe/admin
+Source: lvm2
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian LVM Team <team+lvm@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 254
+Depends: python3:any, lvm2 (>= 2.03.11-2ubuntu4~ubuntu20.04.1~), dbus, python3-dbus, python3-gi, python3-pyudev
+Filename: pool/universe/l/lvm2/lvm2-dbusd_2.03.11-2ubuntu4~ubuntu20.04.1_all.deb
+Size: 44428
+MD5sum: 36d77f60553b344c9e3f0dd591a328c9
+SHA1: 7289d0fbd99b2a1dccf0cb3a2b2d180a8031aa52
+SHA256: 4cc2d3878d890d50a33664dfc9af3f97212e76eb432a33f76f36fc850846580f
+SHA512: ee90afe903fb84800258db31f63312549ca83c65f2224a5c326f0e09aa1f1ad44b079b5aea5297b09cc6cd9f833e098e30b1b495b4c1476fdfc7dc0abdad3f03
+Homepage: https://sourceware.org/lvm2/
+Description: LVM2 D-Bus daemon
+Description-md5: 58ae61149cfbcb7082b5065979973507
+
+Package: lvm2-lockd
+Architecture: arm64
+Version: 2.03.11-2ubuntu4~ubuntu20.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: universe/admin
+Source: lvm2
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian LVM Team <team+lvm@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 563
+Depends: libc6 (>= 2.28), libdlm3 (>= 3.0.2), libsanlock-client1 (>= 3.3.0), libselinux1 (>= 1.32), libsystemd0, libudev1 (>= 183), lvm2 (>= 2.03.11-2ubuntu4~ubuntu20.04.1~)
+Breaks: sanlock (<< 3.8.0)
+Filename: pool/universe/l/lvm2/lvm2-lockd_2.03.11-2ubuntu4~ubuntu20.04.1_arm64.deb
+Size: 114376
+MD5sum: 33ffa662de8a4b162d4e1f23c1fc109c
+SHA1: 148a496e76c430ab09e80e42ab722159b0179b82
+SHA256: 5f67645b2aa0f105fe945a73b6ed4f95f7e05eed79838281b9f2ee0e20d64710
+SHA512: 456b1fe3c3766976e62d60a4568d36fd7344a09087162c868762eafef0be2d8857b245a416ff70aee9a7d00f86cc4451a874c6c0263968e9420de6b6443a8146
+Homepage: https://sourceware.org/lvm2/
+Description: LVM locking daemon
+Description-md5: 616fa34a9f75aed256bed16729c930bd
+
+Package: python3-sanlock
+Architecture: arm64
+Version: 3.8.2-2~ubuntu20.04.1
+Priority: optional
+Section: universe/python
+Source: sanlock
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Håvard Flaget Aasen <haavard_aasen@yahoo.no>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 62
+Provides: python3.8-sanlock
+Depends: python3 (<< 3.9), python3 (>= 3.8~), libc6 (>= 2.17), libsanlock1 (= 3.8.2-2~ubuntu20.04.1)
+Filename: pool/universe/s/sanlock/python3-sanlock_3.8.2-2~ubuntu20.04.1_arm64.deb
+Size: 15572
+MD5sum: ac8cfc373eeb3b166fb8904b563abd12
+SHA1: 99db1668153f84f7aa5aaa825db17bf3693c4721
+SHA256: f66e6862d222cdf6f0ce0723a165f18158164096cbe59c4b2fc11108e28bae91
+SHA512: 7a54312e3ec9ef60ce677271f7b81cb301ec96664cf91eaf45ffbdeb796ec372a51819731c65044307f8bfdd901523b5e8cfa03f70b4a5097ef0d8fd84574ea1
+Homepage: https://www.pagure.io/sanlock/
+Description: Python3 bindings to shared storage lock manager
+Description-md5: 3ff9deb2a582537122b5a6bd7bf8848b
+
+Package: sanlock
+Architecture: arm64
+Version: 3.8.2-2~ubuntu20.04.1
+Priority: optional
+Section: universe/libs
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Håvard Flaget Aasen <haavard_aasen@yahoo.no>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 330
+Pre-Depends: init-system-helpers (>= 1.54~)
+Depends: libaio1 (>= 0.3.93), libblkid1 (>= 2.17.2), libc6 (>= 2.17), libsanlock1 (>= 3.8.2), libuuid1 (>= 2.16), adduser
+Filename: pool/universe/s/sanlock/sanlock_3.8.2-2~ubuntu20.04.1_arm64.deb
+Size: 120132
+MD5sum: 623a28ebe1270db978efb48cb769ce07
+SHA1: d2d7d967b7dcf35d315bd9457d2cfc034dd488b7
+SHA256: caa4ccf1689d2100e67348bd42df4c0f412e7e24175ea8dfe7e596b5db6cde7f
+SHA512: 97940382c6bd4acbeaec462df935ff3c2bf0ece83c3fb1540e886738ccd6774256f25ed0b4d00df7c0f1e83da4f1d7135a99b82b3c32538e79703f410ede77ae
+Homepage: https://www.pagure.io/sanlock/
+Description: Shared storage lock manager
+Description-md5: bd141da626ec78be3673c3046a692c21
+

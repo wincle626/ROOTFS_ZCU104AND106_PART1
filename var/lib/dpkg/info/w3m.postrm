@@ -1,0 +1,11 @@
+#!/bin/sh
+
+set -e
+
+dpkg-maintscript-helper rm_conffile \
+  /etc/w3m/w3mconfig 0.4.2-2~ -- "$@"
+
+# Automatically added by dh_installmenu/12ubuntu1
+if [ -x "`which update-menus 2>/dev/null`" ]; then update-menus ; fi
+# End automatically added section
+

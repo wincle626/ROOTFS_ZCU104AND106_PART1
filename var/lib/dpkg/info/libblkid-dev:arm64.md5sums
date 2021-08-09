@@ -1,0 +1,5 @@
+ee8a5f921e947e75712602a6d4e0fa8d  usr/include/blkid/blkid.h
+57728476736279db6cbc93c39ca4d290  usr/lib/aarch64-linux-gnu/libblkid.a
+f1bac26a088bff0cea859f3377773faa  usr/lib/aarch64-linux-gnu/pkgconfig/blkid.pc
+d5aa93a766c58a08be0158132a7505b9  usr/share/doc/libblkid-dev/copyright
+fcd3a8ba7e2c92357ed257478eab04d4  usr/share/man/man3/libblkid.3.gz

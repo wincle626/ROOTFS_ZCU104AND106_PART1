@@ -1,0 +1,6 @@
+417fb979374d579ac44299dbea96e8e6  usr/include/numa.h
+fafef432000026e169c414d7afa72aaf  usr/include/numacompat1.h
+17b220925eab4c5c3ce62a3fd9d83149  usr/include/numaif.h
+c3a937662cb23b885ce2329439cdd66e  usr/lib/aarch64-linux-gnu/libnuma.a
+1fe113e4a892a0ae09bc7274eb4c5740  usr/share/doc/libnuma-dev/copyright
+c6cec13fa83a3da7cae4b7efc9a6d270  usr/share/man/man3/numa.3.gz

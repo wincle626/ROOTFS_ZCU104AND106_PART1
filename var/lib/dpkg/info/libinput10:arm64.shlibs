@@ -1,0 +1,2 @@
+libinput 10 libinput10 (>= 1.15.5)
+udeb: libinput 10 libinput10-udeb (>= 1.15.5)

@@ -1,0 +1,16 @@
+e7e8231bb5d5cfaa9866fb4f062c5545  usr/bin/dh_doxygen
+5ec6c1a1522dfc5e09821928be7357d2  usr/bin/doxygen
+6e68291d87b983bc90a27cb987004e48  usr/bin/doxyindexer
+cce385e3e4d96358a1820e866b5fb175  usr/bin/doxysearch.cgi
+8841e909f6a4442ce94281fe1bea3c44  usr/share/doc/doxygen/LANGUAGE.HOWTO
+23b7d98a417757ca341c3335c4c613a3  usr/share/doc/doxygen/NEWS.Debian.gz
+f585e84c879ab93f5fd5d3f82febd7aa  usr/share/doc/doxygen/README.jquery
+c7a9bc41e65b7867dadae9878f6571be  usr/share/doc/doxygen/README.md
+959b731ba21c3c43bd7d153e4df52487  usr/share/doc/doxygen/TODO.Debian
+527cf4d3f9b959b4ae78d3ecd49a586c  usr/share/doc/doxygen/VERSION
+18a2c567d92d2cc29d40cf24f8e8286a  usr/share/doc/doxygen/changelog.Debian.gz
+9442831258d5753f9768e2d73fbcad72  usr/share/doc/doxygen/copyright
+106c34fabc5807bac52355da2d7c40d3  usr/share/man/man1/dh_doxygen.1.gz
+12d3103faa0aa483419eb1bedb9ef299  usr/share/man/man1/doxygen.1.gz
+b062bdfcfdb425623907ff6c69b93095  usr/share/man/man1/doxyindexer.1.gz
+f8d1184e43c0a605e5585ba076e17fd6  usr/share/man/man1/doxysearch.cgi.1.gz

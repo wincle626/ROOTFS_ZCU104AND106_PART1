@@ -1,0 +1,6 @@
+interest-noawait texmf-hyphen
+interest-noawait texmf-format
+interest-noawait texmf-map
+interest-noawait /usr/share/texmf
+interest-noawait /usr/share/texlive/texmf-dist
+interest-noawait /usr/share/doc/texlive-doc

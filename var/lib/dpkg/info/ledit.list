@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/bin
+/usr/bin/ledit
+/usr/share
+/usr/share/bash-completion
+/usr/share/bash-completion/completions
+/usr/share/bash-completion/completions/ledit
+/usr/share/doc
+/usr/share/doc/ledit
+/usr/share/doc/ledit/README
+/usr/share/doc/ledit/README.Debian
+/usr/share/doc/ledit/changelog.Debian.gz
+/usr/share/doc/ledit/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/ledit.1.gz

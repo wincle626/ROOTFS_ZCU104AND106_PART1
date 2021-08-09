@@ -1,0 +1,7 @@
+78f0a59f199687fe8cf0449c4d1a40a7  usr/bin/ledit
+92ec208976a6ac2432f6510cd52aac31  usr/share/bash-completion/completions/ledit
+501f5f0230ad10a6d8dc6918b2e1a8c1  usr/share/doc/ledit/README
+e4fafd972b54dfe4bf78618945ef8b5c  usr/share/doc/ledit/README.Debian
+4a2dd6ada9536e3263999d5168ad5025  usr/share/doc/ledit/changelog.Debian.gz
+605378753b3322807967a4df9ee56e37  usr/share/doc/ledit/copyright
+32384ee74c6690349b13bac7089cf8b7  usr/share/man/man1/ledit.1.gz

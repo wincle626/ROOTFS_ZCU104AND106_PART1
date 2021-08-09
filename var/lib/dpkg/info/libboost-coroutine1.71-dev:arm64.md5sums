@@ -1,0 +1,6 @@
+a8fe016257983f9c2904c79e18c9ac3d  usr/lib/aarch64-linux-gnu/cmake/boost_coroutine-1.71.0/boost_coroutine-config-version.cmake
+f72690947db579589099fa6a3696b516  usr/lib/aarch64-linux-gnu/cmake/boost_coroutine-1.71.0/boost_coroutine-config.cmake
+8f6ce5e753945048f40b05f625053bad  usr/lib/aarch64-linux-gnu/cmake/boost_coroutine-1.71.0/libboost_coroutine-variant-shared.cmake
+edd795c3607aa469c704bb821ce40f4f  usr/lib/aarch64-linux-gnu/cmake/boost_coroutine-1.71.0/libboost_coroutine-variant-static.cmake
+089bd518649b43afeff473157c13269b  usr/lib/aarch64-linux-gnu/libboost_coroutine.a
+9d2f436c4c0949f90afe02e5ffdc9f4d  usr/share/doc/libboost-coroutine1.71-dev/copyright

@@ -1,0 +1,10 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+codeload.github.com	0	0	1619688422	31536000
+www.cs.uoregon.edu	0	1	1623146248	31536000
+bitbucket.org	0	1	1613681766	31536000
+download.qt.io	0	1	1621266323	63072000
+github.com	0	1	1619688421	31536000
+sourceware.org	0	0	1623145020	16070400
+github-releases.githubusercontent.com	0	0	1612011411	31536000

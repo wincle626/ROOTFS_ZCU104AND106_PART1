@@ -1,0 +1,8 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+bitbucket.org	0	1	1613681282	31536000
+api.media.atlassian.com	0	0	1615223085	63072000
+github.com	0	1	1615227478	31536000
+xilinx-wiki.atlassian.net	0	1	1615223084	315360000
+codeload.github.com	0	0	1615227478	31536000
